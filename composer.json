@@ -13,7 +13,7 @@
         }
     ],
     "autoload": {
-        "prs-4": {
+        "psr-4": {
             "mfiyalka\\corezoid\\": "src/"
         }
     },
