@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "prs-4": {
-            "mfiyalka\\corezoid\\": "prs/"
+            "mfiyalka\\corezoid\\": "src/"
         }
     },
     "minimum-stability": "stable"

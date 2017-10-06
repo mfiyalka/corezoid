@@ -1,6 +1,6 @@
-#Corezoid module
+# Corezoid module
 
-##General
+## General
 With this class, you can send a task to the [Corezoid](https://new.corezoid.com/).
 
 Examples:
@@ -22,6 +22,6 @@ $task = (new Corezoid($api_login, $api_secret))
     ->sendTask();
 ```
 
-##Change log
+## Change log
 
 * Version 1.0.0
