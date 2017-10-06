@@ -1,0 +1,21 @@
+{
+    "name": "mfiyalka/corezoid",
+    "description": "Corezoid Module",
+    "type": "library",
+    "require": {
+        "php": "^5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mykhailo Fiialka",
+            "email": "mfiyalka@gmail.com"
+        }
+    ],
+    "autoload": {
+        "prs-4": {
+            "mfiyalka\\corezoid\\": "prs/"
+        }
+    },
+    "minimum-stability": "stable"
+}
