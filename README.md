@@ -3,6 +3,20 @@
 ## General
 With this class, you can send a task to the [Corezoid](https://new.corezoid.com/).
 
+Install:
+
+```php
+composer require mfiyalka/corezoid "*"
+```
+
+```php
+...
+"require": {
+        "mfiyalka/corezoid": "*"
+    }
+...
+```
+
 Examples:
 
 ```php
