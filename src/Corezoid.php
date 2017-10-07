@@ -157,6 +157,7 @@ class Corezoid
      */
     private function str2hex($string)
     {
-        return array_shift(unpack('H*', $string));
+        $unpack = unpack('H*', $string);
+        return array_shift($unpack);
     }
 }
